@@ -65,8 +65,11 @@ body {
 .nav a:hover {
     /* color: #c0392b; */
     color: rgb(233, 187, 197);
+    /* color: #fff; */
     font-weight: bold;
 }
+
+.nav a.about {}
 
 .hero {
     background-image: url('https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/love-crochet-royalty-free-image-485725914-1551443357.jpg?crop=1.00xw:0.753xh;0,0.130xh&resize=1200:*');
